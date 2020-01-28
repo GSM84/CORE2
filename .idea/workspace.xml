@@ -10,7 +10,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -18,44 +21,38 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VIPOMh6jNY2BdRVvMJ4Opay3fs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ElementReplace (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task1.ElementReplace" />
-      <module name="CORE2.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson1.Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ElementReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_1.Task1.ElementReplace" />
-      <module name="CORE2.git" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson_1.Task1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Chat.client.Main" />
       <module name="CORE2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson2.*" />
+          <option name="PATTERN" value="Lesson6.Chat.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7.Main" />
+      <module name="CORE2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +61,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson1.Task2.Main" />
-      <module name="CORE2.git" />
+      <option name="MAIN_CLASS_NAME" value="Lesson6.Chat.server.Main" />
+      <module name="CORE2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson1.Task2.*" />
+          <option name="PATTERN" value="Lesson6.Chat.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +73,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArrayCheckerBoolean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CORE2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArrayCheckerBoolean" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CORE2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ElementReplace (1)" />
-        <item itemvalue="Application.ElementReplace" />
+        <item itemvalue="JUnit.ArrayCheckerBoolean" />
+        <item itemvalue="JUnit.MyArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -124,29 +140,53 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Inspections" timestamp="1580034328179">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1580034328179" />
     <state x="531" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577023972630">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="531" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577023972630" />
-    <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1577024112362">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1579639758734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="231" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577024112362" />
-    <state width="1493" height="231" key="GridCell.Tab.0.center" timestamp="1577024112362">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579639758734" />
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579429165827">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="231" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577024112362" />
-    <state width="1493" height="231" key="GridCell.Tab.0.left" timestamp="1577024112362">
+    <state x="499" y="163" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1579429165827" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1580040583094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="231" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577024112362" />
-    <state width="1493" height="231" key="GridCell.Tab.0.right" timestamp="1577024112362">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580040583094" />
+    <state width="1337" height="274" key="GridCell.Tab.0.bottom" timestamp="1580245812537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="231" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577024112362" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1577024067174">
+    <state width="1337" height="274" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580245812537" />
+    <state width="1337" height="274" key="GridCell.Tab.0.center" timestamp="1580245812537">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577024067174" />
+    <state width="1337" height="274" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580245812537" />
+    <state width="1337" height="274" key="GridCell.Tab.0.left" timestamp="1580245812537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1337" height="274" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580245812537" />
+    <state width="1337" height="274" key="GridCell.Tab.0.right" timestamp="1580245812537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1337" height="274" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580245812537" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1580039678576">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580039678576" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1580040577664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580040577664" />
+    <state x="477" y="47" key="refactoring.ChangeSignatureDialog" timestamp="1580038511658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="47" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1580038511658" />
   </component>
 </project>
